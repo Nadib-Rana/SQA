@@ -1,4 +1,3 @@
-Your formatting is excellent! The use of emojis, headings, bullet points, and a table makes the content visually appealing and easy to read. Here’s a slightly refined version with minor tweaks for clarity and flow:  
 
 ---
 
@@ -86,12 +85,12 @@ Aims to **prevent** defects early in the development process, reducing the cost 
 
 ---
 
-# 🔄 **Software vs. Other Products**  
+## 🔄 **Software vs. Other Products**  
 
-| **Characteristic**             | **Software Products**                       | **Other Industrial Products**                  |
-|--------------------------------|---------------------------------------------|-----------------------------------------------|
-| **Complexity**                 | Millions of operational possibilities      | Thousands of operational possibilities       |
-| **Visibility of Product**      | Invisible, defects are harder to detect    | Visible, defects can be easily spotted      |
-| **Development Process**        | Defects can only be detected in the development phase | Defects can be identified in multiple stages: Development, Production Planning, Manufacturing |
+| **Characteristic**             | **Software Products**                             | **Other Industrial Products**                     |
+|--------------------------------|---------------------------------------------------|--------------------------------------------------|
+| **Complexity**                 | Millions of operational possibilities. Example: **Microsoft Word**, which offers a wide range of features (spell check, formatting tools, collaboration options, etc.). | Thousands of operational possibilities. Example: **Car Engine**, which can perform a variety of functions (start, accelerate, decelerate) but with fewer modes compared to software. |
+| **Visibility of Product**      | Invisible; defects are harder to detect. Example: A **mobile app**, where bugs like crashes or UI glitches are not visible until they occur. | Visible; defects can be easily spotted. Example: **Smartphone**, where defects like cracks or faulty buttons are immediately noticeable. |
+| **Development Process**        | Defects can only be detected in the development phase. Example: In **Web Development**, bugs in the code are usually discovered during testing or development stages. | Defects can be identified in multiple stages: Development, Production Planning, Manufacturing. Example: A **smartwatch**, where defects like battery issues or screen defects can be detected during the assembly line or pre-shipping inspection. |
 
 ---
