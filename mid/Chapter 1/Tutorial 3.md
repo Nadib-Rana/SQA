@@ -48,3 +48,34 @@ Portability refers to how easily the software can adapt to changes in the enviro
 
 ---
 
+
+
+
+---
+
+## 🎯 **What is Software Testing?**
+
+Software testing is a **process** to evaluate whether the software meets the required specifications and to identify defects. The goal is to ensure the product is **defect-free** and of high **quality**.
+
+📜 **ANSI/IEEE 1059 Standard:**  
+A process of analyzing a software item to detect defects and evaluate its features.
+
+---
+
+## ⚠️ **Software Fault, Error, and Failure**
+
+- **🛠️ Software Fault:** A **defect** in the software.
+- **🚫 Software Error:** An **incorrect internal state** caused by a fault.
+- **❌ Software Failure:** **Incorrect behavior** when the software doesn’t meet requirements.
+
+---
+
+## 🔄 **Fault and Failure Example**
+
+1. **Fault**: A patient gives symptoms to a doctor.
+2. **Failure**: The doctor diagnoses **incorrectly**.
+3. **Error**: The doctor checks for **internal conditions** (e.g., high blood pressure) and misses the real cause.
+
+---
+
+
