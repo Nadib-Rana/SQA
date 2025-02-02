@@ -51,6 +51,15 @@ How well the software handles **non-functional requirements**, such as robustnes
 | **Activities**                   | Evaluation and improvement of processes used to produce software                 | Testing and inspecting the final product to find defects                     |
 | **Goal**                         | Prevent defects by improving the process                                        | Detect and correct defects in the final product                               |
 | **Stage**                        | Activities performed throughout the development process                         | Activities performed after the product is developed, before shipping         |
+| **Real-life Example**            | A team adopts an agile development process, conducts regular code reviews, and uses continuous integration to catch issues early in the process. | A team tests the final version of a mobile app by running unit tests, integration tests, and performing user acceptance testing (UAT) to ensure there are no bugs before release. |
+
+---
+
+**Real-Life Example for SQA:**  
+In an agile development environment, developers might use automated testing frameworks like **JUnit** or **Selenium** to ensure their code is correct every time changes are made. This approach ensures that the process of writing code and testing it is robust and helps in catching errors early in the development lifecycle.
+
+**Real-Life Example for SQC:**  
+Before releasing a new mobile app, a **Quality Control team** would manually test the application on different devices to ensure there are no visual glitches, crashes, or functional issues. This could include exploratory testing, performance testing, and verifying that all user features work as expected.
 
 ---
 
