@@ -79,7 +79,6 @@ It's nearly impossible to create completely **defect-free** software. The softwa
 
 6. **Evolution**  
    - Sloppy redevelopment or maintenance can introduce new flaws while attempting to fix old ones, leading to escalating complexity over time.
-
 ---
 
 
