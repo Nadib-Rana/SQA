@@ -1,4 +1,4 @@
-### **Testing vs Debugging (সংক্ষেপে)**  
+### **Testing vs Debugging **  
 
 | Aspect           | **Testing (পরীক্ষা)** | **Debugging (ডিবাগিং)** |
 |-----------------|--------------------|--------------------|
