@@ -1,4 +1,4 @@
-### **Verification vs. Validation (সংক্ষিপ্তভাবে)**  
+### **Verification vs. Validation **  
 
 - **✅ Verification (যাচাইকরণ)** → সফটওয়্যারটি **সঠিকভাবে** তৈরি হচ্ছে কি না তা নিশ্চিত করে।  
   - *প্রক্রিয়াভিত্তিক* (আমরা কি সঠিকভাবে বানাচ্ছি?)  
@@ -12,7 +12,7 @@
 - **Verification** = *পরীক্ষার আগে* (Static)  
 - **Validation** = *পরীক্ষার সময়/পরবর্তীতে* (Dynamic)
 - ----------------------------------------------------------------------------------------
-### **Verification vs. Validation Example (Bangla + English)**  
+### **Verification vs. Validation Example**  
 
 #### **✅ Verification (যাচাইকরণ) Example:**  
 - **Scenario:** আপনি একটি **ই-কমার্স ওয়েবসাইট** তৈরি করছেন।  
