@@ -57,7 +57,6 @@
 3️⃣ **Limited Opportunities to Detect Defects (Bugs)** – Some errors only appear in real-world use cases.  
 
 ---
-
 ## 🔹 **Characteristics of the SQA (Software Quality Assurance) Environment**  
 
 ✅ **Being Contracted** – Often developed under formal agreements.  
