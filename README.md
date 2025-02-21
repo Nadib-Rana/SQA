@@ -1,3 +1,5 @@
+
+```
 STQA
 │
 ├── Lecture Notes
@@ -30,8 +32,11 @@ STQA
     │   ├── Midterm_Questions.docx
     │   ├── Midterm_Solutions.docx
     │   └── ...
+    │
     └── Final
         ├── Final_Review.txt
         ├── Final_Questions.docx
         ├── Final_Solutions.docx
         └── ...
+```
+
