@@ -3,7 +3,7 @@
 
 ## 🖥️ **What is Software?**  
 
-**Softwer** is Program that enables  a computer to ***perporm*** the ***specific** task. 
+**Softwer** is Program that enables  a computer to ***perporm*** the ***specific*** task. 
 
 ---
 
