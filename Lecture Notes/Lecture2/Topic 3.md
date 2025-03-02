@@ -1,6 +1,5 @@
 **Testing goals** based on the maturity of your testing process! The more mature your testing process, the more advanced and strategic your goals become. 
 
-This aligns well with models like **TMMi (Test Maturity Model Integration)** or **CMMI (Capability Maturity Model Integration)**, which outline how testing evolves over time. I’ll walk you through it step by step!
 
 ---
 
